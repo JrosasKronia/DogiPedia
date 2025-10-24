@@ -93,7 +93,7 @@ dog-viewer/
 - Can be extracted to a separate file: `src/services/dogApi.ts`
 
 ### Type Safety
-- Defined clear interfaces for `DogImage` and `FavoriteDog`
+- Defined Api Response for `DogImage` and `FavoriteDog`
 - TypeScript ensures data integrity throughout the app
 
 ### Styling Approach
@@ -106,6 +106,7 @@ dog-viewer/
 - [ ] Persist favorites to localStorage
 - [ ] Add breed filtering/search
 - [ ] Implement infinite scroll for thumbnails
+- [ ] Implement pagination
 - [ ] Add image loading states and error handling
 - [ ] Unit tests with Vitest
 - [ ] E2E tests with Playwright
@@ -138,4 +139,4 @@ MIT
 
 ## Author
 
-Created as a coding assignment for Senior Front End Developer position.
+Luis Jonathan Rosas Ramos as a coding assignment.
