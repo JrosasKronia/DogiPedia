@@ -31,7 +31,7 @@ A modern, responsive dog breed viewer built with React, TypeScript, and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JrosasKronia/DogiPedia.git
 cd dog-viewer
 ```
 
